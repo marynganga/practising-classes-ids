@@ -1,10 +1,12 @@
-.intro{
+.intro {
   font-style: italic;
 }
-.author{
+
+.author {
   color: salmon;
 }
-p.author{
+
+p.author {
   font-size: 12px;
   font-style: oblique;
 }
